@@ -1,0 +1,241 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "sum_recursion",
+      "request": "launch",
+      "mainClass": "sum_recursion",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "decreasing_order_recursion",
+      "request": "launch",
+      "mainClass": "decreasing_order_recursion",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "practice_patterns_in",
+      "request": "launch",
+      "mainClass": "practice_patterns_in",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "prac_patterns",
+      "request": "launch",
+      "mainClass": "prac_patterns",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "merge_Sort",
+      "request": "launch",
+      "mainClass": "merge_Sort",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "lastDig",
+      "request": "launch",
+      "mainClass": "lastDig",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "abstract_practice",
+      "request": "launch",
+      "mainClass": "abstract_practice",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "object_orientation_practice2",
+      "request": "launch",
+      "mainClass": "object_orientation_practice2",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "OBJECT_ORIENTATITON_practice",
+      "request": "launch",
+      "mainClass": "OBJECT_ORIENTATITON_practice",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "obj",
+      "request": "launch",
+      "mainClass": "obj",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "problems_on_loops",
+      "request": "launch",
+      "mainClass": "problems_on_loops",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "prac",
+      "request": "launch",
+      "mainClass": "prac",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "ispalin",
+      "request": "launch",
+      "mainClass": "ispalin",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "Coding_wallah",
+      "request": "launch",
+      "mainClass": "Coding_wallah",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "palindrome",
+      "request": "launch",
+      "mainClass": "palindrome",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "Strings",
+      "request": "launch",
+      "mainClass": "Strings",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "spiral",
+      "request": "launch",
+      "mainClass": "spiral",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "linear_Search",
+      "request": "launch",
+      "mainClass": "linear_Search",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "recursion",
+      "request": "launch",
+      "mainClass": "recursion",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "student_constructor",
+      "request": "launch",
+      "mainClass": "student_constructor",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "encapsulation_in_java",
+      "request": "launch",
+      "mainClass": "encapsulation_in_java",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "class_obj",
+      "request": "launch",
+      "mainClass": "class_obj",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "advance_patterns",
+      "request": "launch",
+      "mainClass": "advance_patterns",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "bin",
+      "request": "launch",
+      "mainClass": "bin",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "third_practice_two_d_array",
+      "request": "launch",
+      "mainClass": "third_practice_two_d_array",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "two_D_Arr_practice",
+      "request": "launch",
+      "mainClass": "two_D_Arr_practice",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "two_d_Array",
+      "request": "launch",
+      "mainClass": "two_d_Array",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "arr_subarray",
+      "request": "launch",
+      "mainClass": "arr_subarray",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "arr_pairs_two",
+      "request": "launch",
+      "mainClass": "arr_pairs_two",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "TrappingRainwater",
+      "request": "launch",
+      "mainClass": "TrappingRainwater",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "type": "java",
+      "name": "subarrays",
+      "request": "launch",
+      "mainClass": "subarrays",
+      "projectName": "ALPHA 3.0_fa61d484"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/Ojas Bidkar/Desktop/ALPHA 3.0",
+      "program": "c:/Users/Ojas Bidkar/Desktop/ALPHA 3.0/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
